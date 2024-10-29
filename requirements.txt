@@ -1,7 +1,7 @@
 streamlit==1.39.0
-google-generativeai==0.1.0
+google-generativeai  # removed specific version
 python-dotenv==1.0.0
 langchain==0.0.203
 PyPDF2==3.0.1
-langchain-google-genai==0.0.1  # Corrected hyphen in package name
+langchain-google-genai  # removed specific version
 gunicorn==20.1.0
